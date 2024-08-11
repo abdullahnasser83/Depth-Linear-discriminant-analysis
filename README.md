@@ -18,14 +18,13 @@ This section assesses the proposed depth linear discrimination analysis method, 
 
 To illustrate the ability of D-LDA to linearly separate classes and handle outliers, Figures 1 and 2 present a comparison of D-LDA with existing methods using a simple dataset. These figures also show the accuracy of each method. Figure 1 shows the results of applying the dimensionality reduction methods to normal data, whereas Figure 2 shows the results after introducing outliers. The results show the superiority of the D-LDA method over the other methods in the presence and absence of outliers, except for the RSLDA method, which obtained results close to those of the D-LDA method. The results of KLDA and RSLDA were competitive and comparable to those of D-LDA.
 
-### Figures
 
-**Figure 1: Data transformation and accuracy comparisons without outliers.**
 
 ![Figure 1](Figure1.png)
+**Figure 1: Data transformation and accuracy comparisons without outliers.**
 
 
-**Figure 2: Data transformation and accuracies compared in the presence of outliers.**
 
 ![Figure 2](Figure2.png)
+**Figure 2: Data transformation and accuracies compared in the presence of outliers.**
 
