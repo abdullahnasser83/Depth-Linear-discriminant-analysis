@@ -17,16 +17,8 @@ import numpy as np
 from sklearn.preprocessing import LabelEncoder
 from sklearn.base import BaseEstimator, TransformerMixin
 from scipy.optimize import minimize
-#%%RSLDA
 import sys
 import os
-
-# Get the current working directory (where your main script is located)
-current_dir = os.path.dirname(os.path.realpath(__file__)) + "\RSLDA"
-
-# Add the current directory to the Python path
-sys.path.append(current_dir)
-
 from PCA1 import PCA1
 from ScatterMat import ScatterMat
 
