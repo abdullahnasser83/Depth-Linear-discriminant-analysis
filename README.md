@@ -30,7 +30,7 @@ To illustrate the ability of D-LDA to linearly separate classes and handle outli
 
 **Figure 2: Data transformation and accuracies compared in the presence of outliers.**
 
-
+## Citation
 This work is part of the research project **"Depth Linear Discrimination-Oriented Feature Selection Method based on Adaptive Sine Cosine Algorithm for Software Defect Prediction."** If you use and find this work useful, please cite the following research paper:
 
 **Abdullah B Nasser, Waheed Ali HM Ghanem, Abdul-Malik HY Saad, Antar Shaddad Hamed Abdul-Qawy, Sanaa AA Ghaleb, Nayef Abdulwahab Mohammed Alduais.** *Depth linear discrimination-oriented feature selection method based on adaptive sine cosine algorithm for software defect prediction, Expert Systems with Applications* (2024). [https://doi.org/10.1016/j.eswa.2024.124266](https://doi.org/10.1016/j.eswa.2024.124266)
