@@ -21,10 +21,12 @@ To illustrate the ability of D-LDA to linearly separate classes and handle outli
 
 
 ![Figure 1](Figure1.png)
+
 **Figure 1: Data transformation and accuracy comparisons without outliers.**
 
 
 
 ![Figure 2](Figure2.png)
+
 **Figure 2: Data transformation and accuracies compared in the presence of outliers.**
 
